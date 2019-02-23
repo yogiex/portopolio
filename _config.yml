@@ -39,6 +39,7 @@ avatar: "/img/avatar-icon.png"
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
+background-image: url('/img/bg-home.png')
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
@@ -55,9 +56,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/img/bgimage.png"
- footer-img: "/img/bgimage.png"
- page-img: "/img/bgimage.png"
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
