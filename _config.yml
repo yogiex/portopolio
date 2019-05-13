@@ -76,7 +76,7 @@ social-network-links:
   email: "Priyagung.yogi@yahoo.com"
   facebook: "Priyagung Yogi"
   github: "Yogiex"
-#  twitter: ""
+#  twitter: "yogiex"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -96,8 +96,10 @@ share-links-active:
  # twitter: false
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
   instagram: true
+  telephone: true
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
