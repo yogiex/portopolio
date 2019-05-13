@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd must hire me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Nama saya adalah Priyagung Elza Yogitama,dan berikut kualitas diri saya:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Memiliki minat pada mengajarkan dan berbagi ilmu tentang jaringan dan sistem operasi ke orang lain.
+- Saya sangat menyukai jaringan dan sistem operasi.
 
-What else do you need?
+Dan apalagi yang dibutuhkan?
 
-### my history
+### hobi saya
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+sebenernya saya memiliki hobi yang cukup aneh dibilang pada ketertarikan dengan ethical hacking,justru itu hobi saya adalah dengan bermain CTF, [CTF Time](https://ctftime.org) dan itu salah satu web yang sering saya kunjungi untuk berlatih **CTF**
