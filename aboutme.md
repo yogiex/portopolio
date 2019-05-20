@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd must hire me
 ---
-![](/img/picAboutMe.jpeg =250x)
+![](/img/picAboutMe.jpeg)
 Nama saya adalah Priyagung Elza Yogitama,saya adalah mahasiswa Telkom university dari S1 Teknologi Informasi 2017 yang berasal dari solo dan berikut kualitas diri saya:
 
 - Memiliki minat pada mengajarkan dan berbagi ilmu tentang jaringan dan sistem operasi ke orang lain.
