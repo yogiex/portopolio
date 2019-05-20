@@ -3,7 +3,7 @@ layout:
 title: About me
 subtitle: Why you'd must hire me
 ---
-![picMe](https://i.ibb.co/N1YXhyb/FOTO-4-X6-1303170030.jpg)
+![picMe](https://i.ibb.co/N1YXhyb/FOTO-4-X6-1303170030.jpg =250x)
 Nama saya adalah Priyagung Elza Yogitama,dan berikut kualitas diri saya:
 
 - Memiliki minat pada mengajarkan dan berbagi ilmu tentang jaringan dan sistem operasi ke orang lain.
