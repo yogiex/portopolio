@@ -26,3 +26,4 @@ sebenernya saya memiliki hobi yang cukup unik dibilang pada ketertarikan dengan 
 - Python3 
 
 ### Contact atau sosial media lainnya sudah tertera pada footer dibawah
+
