@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sudah lama tidak upload?
-image: 
+image: ../img/Internet-Of-Things-IOT-e1494259888206.png
 
 ---
 selamat pagi!!! pada postingan kali ini saya ingin sedikit menambah postingan lagi dengan mem-publish dari review video yang merupakan tugas dari salah satu mata kuliah wawasan global TIK
@@ -51,23 +51,23 @@ Di masa depan, diperkirakan akan ada lonjakan penduduk yang mengakibatkan produk
 Maka ketahuilah lebih lanjut tentang IoT dengan menonton tayangan penjelasan berikut:
 
 - Video: https://www.youtube.com/watch?v=DD9-04Sbtnw&ab_channel=MicrosoftIoT
-Direview oleh: M. Faris Athiyyah Rizqullah (1303172071)
+Direview oleh: M. Faris Athiyyah Rizqullah 
 Perkembangan teknologi banyak mengalami perubahan yang signifikan, salah satunya dengan perkembangan Internet of Think. Penerapan IoT ini bisa merubah penerapan digital yang biasa digunakan sebagai investasi dalam inovasi, transformasi untuk membangun serangkaian solusi untuk menjalankan masing-masing industri. IoT dapat dibilang tidak ada batasannya, sebab dengan adanya IoT kita semua memiliki sebuah inovasi, kreatifitas, dan ide yang tidak terbatas dalam pengembangannya. Sebagai contoh teknologi VR, AR, dan AI menggabungkannya dengan beberapa seperti IoT dan 5G. Dalam hal ini akan lebih terjangkau untuk konektivitas dan dapat menciptakan sebuah alur kerja yang baru.
 
 - Video: https://youtu.be/1VhO4yGAjyo 
-Direview oleh: Muhammad Fachri Rahmansyah (1303174053)
+Direview oleh: Muhammad Fachri Rahmansyah 
 Pada Revolusi Industri 4.0 Internet of Thing(IoT) akan berperan dalam banyak aspek. Beberapa diantaranya adalah agrikultur, infrastruktur kota, otomotif, kesehatan, dan manufaktur industri. Dalam bidang kesehatan, IoT dapat membantu para profesional dalam mendiagnosis pasien menggunakan smart sensor agar lebih akurat. Ada juga neuralink yang dibuat oleh perusahaan yang didirikan oleh Elon Musk, yaitu sebuah device yang diimplankan ke otak manusia sehingga dapat dihubungkan ke komputer. Ini berguna untuk merestorasi sensor dan fungsi motorik serta pengobatan untuk gangguan neurologis. Di bidang otomotif, Elon Musk juga mendirikan Tesla, yaitu self-driving car. Diperkirakan self-driving car ini akan menjadi tren di masa depan, apalagi saat-saat seperti pandemik sekarang, dimana semua harus melakukan physical distancing. Di bidang manufaktur industri, sudah ada banyak mesin tanpa pengoperasian manusia. Mesin-mesin ini menggunakan Artificial Intelligence atau kecerdasan buatan. Dan tentu saja setiap mesin dapat berkomunikasi satu sama lain menggunakan IoT. Bidang Agrikultur diperkirakan akan menjadi bidang paling penting di masa depan karena pertumbuhan penduduk dunia yang signifikan. Maka dari itu, sudah dimulai proyek-proyek yang berkaitan dengan agrikultur ini. Salah satunya dengan membuat sistem berbasis IoT di bidang pertanian. Dan bidang yang akan selalu tren adalah keamanan terutama keamanan privasi.
 
 - Video: https://www.youtube.com/watch?v=Cx5aNwnZYDc 
-Direview Oleh : Priyagung Elza Yogitama  (1303170030)
+Direview Oleh : Priyagung Elza Yogitama  
 Review: perkembangan Iot pada era industri 4.0 yang membuat semua mudah untuk terkoneksi pada internet maka dari itu tidak dipungkiri bahwa setiap orang pasti membutuhkan akses internet untuk mencari informasi. Pada penggunaan iot, sensor yang digunakan akan memantau dan menyimpan data yang banyak sekali hingga bisa disebut big data, tetapi data yang digunakan mungkin belum bisa diolah, maka perlu adanya perhitungan statistik agar bisa membuat teknologi AI untuk penambangan data atau data mining, mencari trend pada suatu individu hingga pada suatu daerah, pencarian rute darurat. Selain itu juga dalam hal kesehatan mempermudah memantau pasien yang sakit, seperti gula darah, tekanan jantung. Teknologi setiap hari selalu berkembang dengan sangat cepat, misal perusahaan nvidia yang mempunyai teknologi GauGAN, tesla yang mempunyai mobil otomatis.
 
 - Video: https://www.youtube.com/watch?v=7DZR5UaAM0E
-Direview Oleh : Rizky Maulana Firmansyah (1303170042)
+Direview Oleh : Rizky Maulana Firmansyah 
 IoT Menghubungkan Perangkat apapun ke internet dan perangkat lain , semua perangkat jaringan berinteraksi satu sama lain untuk mengumpulkan dan berbagi data.Konsep IoT Menjelaskan Secara Komprehensif perangkat lunak dan perangkat keras.Contoh Perangkat lunak yaitu building block of IoT Connectivity,Architecture Framework and interoperability,Security Considerations,Industry 4.0, Internet of everything(IoE) and Social IoT dan terakhir adalah IoT framwork in enterprises. Contoh perangkat keras dibagi menjadi 2 kategori yaitu General devices dan sensing devices, General devices melakukan pemrosesan tertanam dan konektivitas untuk platform mereka terhubung baik dengan jaringan kabel atau antarmuka nirkabel,Contoh sensing devices mereka adalah komponen utama untuk pengumpulan data dan pemrosesan informasi. Ada beberapa komunikasi yang dapat mengatur IoT yaitu satellite , Wifi , Radio Frequency (RF) , RFID , Bluetooth dan Near Field Communication (NFC). IoT Merevolusi berbagaimacam industry, dengan IoT industry mengalami transformasi digital seperti manufaktur,layanan kesehatan , keuangan , transfortasi dan situs perbelanjaan.
 
 - Video: https://youtu.be/ZuxJzz8je9I
-Direview Oleh : Andi Valerian Wibowo (1303170093)
+Direview Oleh : Andi Valerian Wibowo 
 Internet of Things (IoT) merupakan sebuah teknologi yang memiliki kemampuan dimana sebuah objek atau sesuatu benda yang dapat terhubung dengan internet tanpa melalui interaksi manusia. Saat ini banyak program-program yang menerapkan sistem IoT seperti sistem untuk melakukan monitoring, pengelolaan infrastruktur, bidang kesehatan, otomotif, pembacaan data oleh sensor dll. Dalam perkembangan teknologi IoT banyak menggunakan koneksi wireless dan wired, contohnya seperti mobil yang menggunakan koneksi internet.Tidak hanya mobil contoh lain dari pemanfaatan IoT adalah dengan adanya WiFi sensing yang dapat dipasang pada rumah-rumah. WiFi sensing berfungsi untuk mendeteksi serta dapat mengetahui suatu objek yang bergerak dari suatu posisi ke posisi yang lain tidak hanya itu, WiFi sensing juga dapat dijadikan sebagai pendeteksi kondisi dari penghuni rumah seperti kondisi emosional, kondisi posisi ruangan, dan kondisi lingkungan.
 
 
