@@ -8,6 +8,7 @@ tags: [docker, container, cloud computing, linux, devops]
 Selamat pagi!! pada postingan saya kali ini, saya ingin sedikit memperkenalkan teknologi container yang terkenal pada pengembangan software tools dan software, jadi sebelum memasuki topik bahasan mengenai docker saya ingin menjelaskan terlebih dahulu tentang container tersebut.
 
 **Container**
+
 Container adalah unit standar perangkat lunak yang mengemas kode dan semua dependensinya sehingga aplikasi berjalan dengan cepat dan andal dari satu lingkungan komputasi ke lingkungan komputasi lainnya. Docker container images adalah paket perangkat lunak ringan, mandiri dan dapat dieksekusi yang mencakup semua yang diperlukan untuk menjalankan aplikasi atau perangkat lunak:kode, waktu proses, system tools, pustaka, dan setting.
 dengan docker juga apabila mengalami kerusakan pada salah satu container tidak akan berpengaruh terhadap OS host atau antar container yang lain, karena itulah disebut container, membungkus program dan mengisolasinya agar tidak terjadi single-failure yang berakibat fatal terhadap sistem atau layanan yang lain.
 ![GambarContainer](https://www.docker.com/sites/default/files/d8/styles/large/public/2018-11/container-what-is-container.png?itok=vle7kjDj)
@@ -27,16 +28,20 @@ menggunakan docker container sebagai platform deployment bisa dibilang ada beber
 
 ![rocket](https://d1.awsstatic.com/icons/benefit-icons/100x100_benefit_deployment1.ac1f1acaaffa93eedfa279a72b4cb9693a8f3b69.png)
 **cepat**
+
 karena dengan menggunakan docker container sebagai penggunaan deployment atau penerapan aplikasi perangkat lunak dapat mempercepat pekerjaan apabila terdapat banyaknya aplikasi atau perangkat lunak yang berbeda fitur sekalipun
 
 ![tools](https://d1.awsstatic.com/icons/benefit-icons/100x100_benefit_tools.6828dcc44b574230d84659102b2cf9fcb5f4ed3b.png)
 **pengoperasian**
+
 menggunakan docker juga dapat mempermudah pengoperasian terhadap apabila pada saat developer atau pengembang tidak mau menginstall program pada OS host, dan akan menginstall pada docker container didalamnya beserta kode yang akan dicoba, sekaligus manajemen terhadap pustaka pada OS hostnya.
 
 **Kapan harus menggunakan docker container?**
+
 mungkin bisa dibilang saat yang tepat menggunakan teknologi docker ini saat ingin menggunakan layanan mikro atau microservices yang tidak bersifat arsitektur monolith, yang setiap layanan menjadi satu karena "mono", pada microservice membagi layanannya pada bagian yang terpisah dan menggabungnya antar layanan, jadi para pengembang bisa fokus pada 1 layanan yang akan dikembangkan dan tidak berpengaruh terhadap layanan yang lain, justru dengan mudah menggabungkan layanan dengan teknologi container ini.
 
 **FAQ:**
+
 Q:Apakah docker gratis?
 A:iya gratis.
 
