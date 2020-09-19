@@ -1,8 +1,8 @@
 ---
 layout: post
 title: docker? container?
-image: "https://i.ibb.co/By4z9BG/logo-kecil.png"
-cover-img: "https://i.ibb.co/9Y48D68/containervolymerna-upp-sju-procent.jpg"
+image: ../img/docker/logo-kecil.png
+bigimg: ../img/docker/containervolymerna-upp-sju-procent.jpg
 tags: [docker, container, cloud computing, linux, devops]
 comments: true
 ---
