@@ -5,8 +5,7 @@ image: ../img/docker/logo-kecil.png
 bigimg: 
     - "hhttps://i.ibb.co/TwJ4WWL/Port-of-Rotterdam.jpg"
 tags: [docker, container, cloud computing, linux, devops]
-comments:
-    - true
+comments: true
 ---
 Selamat pagi!! pada postingan saya kali ini, saya ingin sedikit memperkenalkan teknologi container yang terkenal pada pengembangan software tools dan software, jadi sebelum memasuki topik bahasan mengenai docker saya ingin menjelaskan terlebih dahulu tentang container tersebut.
 
