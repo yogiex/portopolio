@@ -1,8 +1,8 @@
 ---
 layout: post
 title: docker? container?
-image: https://i.ibb.co/6gvncrN/Moby-logo.png
-bigimg: https://i.ibb.co/x6Ltrg3/baltic-container-terminal-e1561643932161.png
+image: https://i.ibb.co/By4z9BG/logo-kecil.png
+bigimg: https://i.ibb.co/D4vKd1g/yangshan-port-case-banner-wap.jpg
 tags: [docker, container, cloud computing, linux, devops]
 ---
 selamat pagi!! pada postingan saya kali ini, saya ingin sedikit memperkenalkan teknologi container yang terkenal pada pengembangan software tools dan software, jadi sebelum memasuki topik bahasan mengenai docker saya ingin menjelaskan terlebih dahulu tentang container tersebut.
