@@ -3,7 +3,7 @@ layout: post
 title: docker? container?
 image: ../img/docker/logo-kecil.png
 bigimg: 
-    - "https://i.ibb.co/TwJ4WWL/Port-of-Rotterdam.jpg"
+    - "http://i.ibb.co/TwJ4WWL/Port-of-Rotterdam.jpg"
 tags: [docker, container, cloud computing, linux, devops]
 comments: true
 ---
