@@ -1,9 +1,9 @@
 ---
 layout: post
 title: docker? container?
-image: https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png
-bigimg: https://safety4sea.com/wp-content/uploads/2019/06/baltic-container-terminal-e1561643932161.png
-tags: [docker, container, cloud computing, linux]
+image: https://i.ibb.co/hdVzq6r/Docker-Logo-Horizontel-279x131-b8a5c41e56b77706656d61080f6a0217a3ba356d.png
+bigimg: https://i.ibb.co/x6Ltrg3/baltic-container-terminal-e1561643932161.png
+tags: [docker, container, cloud computing, linux, devops]
 ---
 selamat pagi!! pada postingan saya kali ini, saya ingin sedikit memperkenalkan teknologi container yang terkenal pada pengembangan software tools dan software, jadi sebelum memasuki topik bahasan mengenai docker saya ingin menjelaskan terlebih dahulu tentang container tersebut.
 
@@ -39,7 +39,7 @@ A:iya gratis.
 Q:perbedaan container dan virtual machine?
 A:sangat berbeda karena pada virtual machine seolah olah mesin yang sebenarnya dan apabila menjalankan virtual machine harus menginstall OS terlebih dahulu, sedangkan container bisa berjalan pada OS host yang asli melalui docker engine, lebih ringan, dan fleksibel terhadap penggunaan.
 
-mungkin untuk penjelasan terhadap docker container cukup sekian, apabila ada pertanyaan lain bisa menghubungi media sosial yang tertera pada dibawah atau dikolom komentar terimakasihhhhhh....
+mungkin untuk penjelasan terhadap docker container cukup sekian kedepannya saya akan membahas tutorial docker, apabila ada pertanyaan lain bisa menghubungi media sosial yang tertera pada dibawah atau dikolom komentar terimakasihhhhhh....
 
 referensi:
 <https://www.docker.com/resources/what-container>
