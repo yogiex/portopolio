@@ -21,6 +21,7 @@ docker diinstal pada server atau komputer lokal dengan memberi perintah sederhan
 
 **Kenapa sih harus menggunakan docker container?**
 menggunakan docker container sebagai platform deployment bisa dibilang ada beberapa benefit atau keuntungannya diantara lain seperti:
+
 ![rocket](https://d1.awsstatic.com/icons/benefit-icons/100x100_benefit_deployment1.ac1f1acaaffa93eedfa279a72b4cb9693a8f3b69.png)
 **cepat**
 karena dengan menggunakan docker container sebagai penggunaan deployment atau penerapan aplikasi perangkat lunak dapat mempercepat pekerjaan apabila terdapat banyaknya aplikasi atau perangkat lunak yang berbeda fitur sekalipun
