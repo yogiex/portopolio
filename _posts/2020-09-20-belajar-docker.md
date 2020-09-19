@@ -15,11 +15,14 @@ dengan docker juga apabila mengalami kerusakan pada salah satu container tidak a
 ``Docker adalah platform perangkat lunak yang memungkinankan untuk menguji, membuat, dan menerapkan perangkat lunak dengan cepat dengan standar yang disebut kontainer.``
 
 **Cara kerja docker**
+
 teknologi docker container ini bekerja dengan konsep dengan standar seperti container yang membungkus program atau kode yang akan diterapkan atau diuji, kontainer juga mirip mesin virtual dengan memvirtualisasi(meminimalisis sumber daya) pada server.
 docker diinstal pada server atau komputer lokal dengan memberi perintah sederhana ketika akan menjalankan kontainer seperti memulai, menghentikan atau membuat kontainer.
+
 ![containervsvm](https://d1.awsstatic.com/Developer%20Marketing/containers/monolith_2-VM-vs-Containers.78f841efba175556d82f64d1779eb8b725de398d.png)
 
 **Kenapa sih harus menggunakan docker container?**
+
 menggunakan docker container sebagai platform deployment bisa dibilang ada beberapa benefit atau keuntungannya diantara lain seperti:
 
 ![rocket](https://d1.awsstatic.com/icons/benefit-icons/100x100_benefit_deployment1.ac1f1acaaffa93eedfa279a72b4cb9693a8f3b69.png)
