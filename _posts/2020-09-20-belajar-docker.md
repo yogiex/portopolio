@@ -2,8 +2,9 @@
 layout: post
 title: docker? container?
 image: https://i.ibb.co/By4z9BG/logo-kecil.png
-bigimg: https://i.ibb.co/D4vKd1g/yangshan-port-case-banner-wap.jpg
+
 tags: [docker, container, cloud computing, linux, devops]
+bigimg: https://i.ibb.co/D4vKd1g/yangshan-port-case-banner-wap.jpg
 ---
 selamat pagi!! pada postingan saya kali ini, saya ingin sedikit memperkenalkan teknologi container yang terkenal pada pengembangan software tools dan software, jadi sebelum memasuki topik bahasan mengenai docker saya ingin menjelaskan terlebih dahulu tentang container tersebut.
 
@@ -12,7 +13,7 @@ Container adalah unit standar perangkat lunak yang mengemas kode dan semua depen
 dengan docker juga apabila mengalami kerusakan pada salah satu container tidak akan berpengaruh terhadap OS host atau antar container yang lain, karena itulah disebut container, membungkus program dan mengisolasinya agar tidak terjadi single-failure yang berakibat fatal terhadap sistem atau layanan yang lain.
 ![GambarContainer](https://www.docker.com/sites/default/files/d8/styles/large/public/2018-11/container-what-is-container.png?itok=vle7kjDj)
 
-`Docker adalah platform perangkat lunak yang memungkinankan untuk menguji, membuat, dan menerapkan perangkat lunak dengan cepat dengan standar yang disebut kontainer.`
+```Docker adalah platform perangkat lunak yang memungkinankan untuk menguji, membuat, dan menerapkan perangkat lunak dengan cepat dengan standar yang disebut kontainer.```
 
 **Cara kerja docker**
 teknologi docker container ini bekerja dengan konsep dengan standar seperti container yang membungkus program atau kode yang akan diterapkan atau diuji, kontainer juga mirip mesin virtual dengan memvirtualisasi(meminimalisis sumber daya) pada server.
