@@ -2,10 +2,10 @@
 layout: post
 title: docker? container?
 image: https://i.ibb.co/By4z9BG/logo-kecil.png
+bigimg: https://i.ibb.co/Nj3JRJt/Port-of-Amsterdam-container-boxes-cranes-BIG.jpg
 tags: [docker, container, cloud computing, linux, devops]
-bigimg: https://i.ibb.co/D4vKd1g/yangshan-port-case-banner-wap.jpg
 ---
-selamat pagi!! pada postingan saya kali ini, saya ingin sedikit memperkenalkan teknologi container yang terkenal pada pengembangan software tools dan software, jadi sebelum memasuki topik bahasan mengenai docker saya ingin menjelaskan terlebih dahulu tentang container tersebut.
+Selamat pagi!! pada postingan saya kali ini, saya ingin sedikit memperkenalkan teknologi container yang terkenal pada pengembangan software tools dan software, jadi sebelum memasuki topik bahasan mengenai docker saya ingin menjelaskan terlebih dahulu tentang container tersebut.
 
 **Container**
 Container adalah unit standar perangkat lunak yang mengemas kode dan semua dependensinya sehingga aplikasi berjalan dengan cepat dan andal dari satu lingkungan komputasi ke lingkungan komputasi lainnya. Docker container images adalah paket perangkat lunak ringan, mandiri dan dapat dieksekusi yang mencakup semua yang diperlukan untuk menjalankan aplikasi atau perangkat lunak:kode, waktu proses, system tools, pustaka, dan setting.
