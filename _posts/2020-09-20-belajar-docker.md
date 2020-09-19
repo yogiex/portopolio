@@ -42,14 +42,14 @@ mungkin bisa dibilang saat yang tepat menggunakan teknologi docker ini saat ingi
 
 **FAQ:**
 
-Q:Apakah docker gratis?
+Q:Apakah docker gratis?<br>
 A:iya gratis.
 
-Q:perbedaan container dan virtual machine?
+Q:perbedaan container dan virtual machine?<br>
 A:sangat berbeda karena pada virtual machine seolah olah mesin yang sebenarnya dan apabila menjalankan virtual machine harus menginstall OS terlebih dahulu, sedangkan container bisa berjalan pada OS host yang asli melalui docker engine, lebih ringan, dan fleksibel terhadap penggunaan.
 
 mungkin untuk penjelasan terhadap docker container cukup sekian kedepannya saya akan membahas tutorial docker, apabila ada pertanyaan lain bisa menghubungi media sosial yang tertera pada dibawah atau dikolom komentar terimakasihhhhhh....
 
-referensi:
-<https://www.docker.com/resources/what-container>
+referensi:<br>
+<https://www.docker.com/resources/what-container><br>
 <https://aws.amazon.com/id/docker/>
