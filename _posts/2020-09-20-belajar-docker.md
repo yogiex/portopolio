@@ -42,6 +42,28 @@ menggunakan docker juga dapat mempermudah pengoperasian terhadap apabila pada sa
 
 mungkin bisa dibilang saat yang tepat menggunakan teknologi docker ini saat ingin menggunakan layanan mikro atau microservices yang tidak bersifat arsitektur monolith, yang setiap layanan menjadi satu karena "mono", pada microservice membagi layanannya pada bagian yang terpisah dan menggabungnya antar layanan, jadi para pengembang bisa fokus pada 1 layanan yang akan dikembangkan dan tidak berpengaruh terhadap layanan yang lain, justru dengan mudah menggabungkan layanan dengan teknologi container ini.
 
+sebelum menggunakan docker, kita haruslah paham terhadap arsitektur docker yang didalamnya terdapat beberapa aspek penting
+
+**ARSITEKTUR DOCKER**   
+
+![arsi](https://i.ibb.co/ZTVNj01/docker-architecture.png)
+
+arsitektur docker diatas terdapat ada docker daemon, docker registry, docker container, docker iamges, dan docker clients
+
+**Docker Daemon**<br>
+Docker daemon adalah layanan docker yang menjalankan perintah docker diatas sistem operasi, seperti linux, windows hingga MacOS.
+
+**Docker registry**<br>
+docker registry adalah penyimpanan yang bersifat content delivery system yang disimpan pada penyimpanan online berupa docker images
+
+**Docker Images**<br>
+docker images adalah template yang bersifat read-only yand disediakan pada registry untuk dikonsumsi agar mempermudah pengembangan perangkat lunak
+
+**docker clients**<br>
+docker clients adalah pengguna dan docker saling berinteraksi dengan menglola docker itu sendiri pada terminal linux ataupun git bash.
+yang pada akhirnya sisi pengguna dapat menggunakan docker.
+
+
 **FAQ:**
 
 Q:Apakah docker gratis?<br>
