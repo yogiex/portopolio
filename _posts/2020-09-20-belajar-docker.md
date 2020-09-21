@@ -77,3 +77,4 @@ mungkin untuk penjelasan terhadap docker container cukup sekian kedepannya saya 
 referensi:<br>
 <https://www.docker.com/resources/what-container><br>
 <https://aws.amazon.com/id/docker/>
+<https://dockerlabs.collabnix.com/beginners/components/daemon/><br>
