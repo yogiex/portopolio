@@ -129,7 +129,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: 
-    shortname: "priyagung"
+    shortname: "yogiex-github-com"
     baseurl: "https://github.com/yogiex/yogiex.github.io"
 
 # To use Facebook Comments, fill in a Facebook App ID
