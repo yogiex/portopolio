@@ -29,7 +29,6 @@ sebenernya saya memiliki hobi yang cukup unik dibilang pada ketertarikan dengan 
 - Linux fudamental
 - Python3 
 - Cisco Packet Tracer
-- Docker
 - Openstack
 
 ### Tech stack
@@ -37,6 +36,8 @@ sebenernya saya memiliki hobi yang cukup unik dibilang pada ketertarikan dengan 
 - node js
 - angular js
 - ionic
+- docker
+
 
 ### database stack
 - mongodb
