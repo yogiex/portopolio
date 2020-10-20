@@ -18,6 +18,7 @@ Nama saya adalah Priyagung Elza Yogitama,saya adalah mahasiswa Telkom university
 - Memiliki minat pada mengajarkan dan berbagi ilmu tentang jaringan dan sistem operasi ke orang lain.
 - Saya sangat menyukai jaringan dan sistem operasi.
 - Menyelesaikan problem solving di Hackerrank.com dengan bahasa BASH scripting.
+- mempelajari hal baru terkait teknologi
 
 ### hobi saya
 
@@ -31,6 +32,15 @@ sebenernya saya memiliki hobi yang cukup unik dibilang pada ketertarikan dengan 
 - Docker
 - Openstack
 
+### Tech stack
+- express
+- node js
+- angular js
+- ionic
+
+### database stack
+- mongodb
+- mysql
 
 ### Contact atau sosial media lainnya sudah tertera pada footer dibawah
 
