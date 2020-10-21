@@ -1,16 +1,17 @@
 ---
 layout: post
-title: git dan versioning control system
-image: 
+title: git? github? gitlab?
+image: https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png
 bigimg: 
-    - ""
+    - "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"
 tags: [github, gitlab, version control system,]
 comments: true
 ---
 
-bismillah 
-seperti judul postingan saya ingin mengenalkan salah satu teknologi control version system,
+seperti judul postingan saya ingin mengenalkan salah satu teknologi control version system git,
 jadi version control system adalah sebuah sistem yang merekan perubahan perubahan dari sebuah file atau folder dari timeline yang ditentukan hingga dapat melakukan rollback terhadap perubahan yang tidak ingin dilakukan. seperti programmer ingin membuat fitur tetapi pada fitur tersebut terjadi kesalahan pada saat production, jadi mau tidak mau sang programmer melakukan rollback dan balik ke fitur yang sebelumnya.
+
+
 
 ## Tujuan git
 - speed
@@ -23,7 +24,10 @@ jadi version control system adalah sebuah sistem yang merekan perubahan perubaha
 - pada saat melakukan kesalahan bisa melakukan recovery atau pemulihan
 - pemulihan agak sedikit tricky wkwkw
 
-
+## git branch
+![branch](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
+merupakan cabang atau percabangan pada saat pengembangan software atau hal yang lain, contoh, branch master secara default akan terbuat pada git, biasanya branch master akan digunakan sebagai branch yang versi stablenya
+biasanya branch dinamai sesuai fitur atau nama yang kontributor, yang nantinya akan di merge atau digabungkan dengan fitur yang lainnya.
 ## configurasi dasar
 ```javascript
 $ git config --global user.name "yogiex"
@@ -53,3 +57,11 @@ git status merupakan command untuk melakukan pengecekan pekerjaan tree status
 ```javascript
 $ git status
 ```
+## github workflow
+![](https://i2.wp.com/build5nines.com/wp-content/uploads/2018/01/GitHub-Flow.png?fit=900%2C310&ssl=1)
+- pertama kita buat branch baru agar branch master tidak terganggu pada saat pengembangan
+- lakukan perubahan terhadap pekerjaan yang dilakukan
+- commit changes agar ditambahkan pada branch yang sesuai
+- pull request untuk memberi informasi terhadap repository yang teman teman kontribusikan
+- testing fitur
+- apabila fitur diterima maka akan dimerge atau digabungkan pada branch master
