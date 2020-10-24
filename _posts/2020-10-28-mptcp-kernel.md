@@ -25,19 +25,19 @@ jadi kernel itu adalah komponen utama dari suatu sistem operasi(SO) dan inti dar
 - linux kernel
 - user processes
 
-
 # MPTCP kernel 
-
 multipath Transmission Control Protocols(MP-TCP) adalah jenis kernel yang memungkinkan pengguna menggunakan beberapa interfaces atau Internet Protocol(IP) dengan memodifikasi Transmission Control Protocols(TCP) dengan mengirimkan packet transfer ke beberapa interface yang terhubung, istilah untuk MPTCP ialah sub-flow pada tiap interfaces yang terhubung. 
 
-# kenapa harus menggunakan MPTCP kernel
+# terminologi mptcp
+- subflow merupakan interfaces yang terhubung pada host atau komputer yang menggunakan MPTCP kernel
 
+# kenapa harus menggunakan MPTCP kernel
 keuntungan menggunakan MPTCP kernel adalah pemanfaatan daya yang lebih baik dibandingkan single path TCP(SPTCP) atau TCP yang biasa, dengan trhougput yang lebih baik juga, lebih halus tanpa mengganggu interfaces pada saat pengiriman data
 
 # tujuan mptcp
-- improve througput = nilai througput < TCP koneksi
-- do not harm = tidak se agressive dibandingkan dengan single path TCP
-- balance congestion = harus memenuhi kedua point diatas
+- improve througput, nilai througput >= TCP koneksi karena seharusnya memang multipath tcp menggunakan flow membagi TCP pada setiap interfaces yang terhubung
+- do no harm, multipath flow tidak harus memenuhi kapatitas dari suatu subflow interfaces daripada singlepath TCP 
+- balance congestion, multipath flow harus berpindah sebanyak flow interface yang ada
 
 
 
@@ -45,3 +45,4 @@ keuntungan menggunakan MPTCP kernel adalah pemanfaatan daya yang lebih baik diba
 
 referensi :
 - https://datatracker.ietf.org/meeting/90/materials/slides-90-mptcp-0
+- https://tools.ietf.org/html/rfc6356
