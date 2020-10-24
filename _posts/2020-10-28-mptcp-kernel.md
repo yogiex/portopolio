@@ -4,7 +4,7 @@ title: mptcp kernel
 image: 
 bigimg: 
     - ""
-tags: [linux, kernel, operating system]
+tags: [linux, kernel, operating system, jaringan komputer]
 comments: true
 ---
 
@@ -25,11 +25,14 @@ jadi kernel itu adalah komponen utama dari suatu sistem operasi(SO) dan inti dar
 - linux kernel
 - user processes
 
+![](https://i.ibb.co/dJ8Yd91/MPTCPdiagram.png)
 # MPTCP kernel 
 multipath Transmission Control Protocols(MP-TCP) adalah jenis kernel yang memungkinkan pengguna menggunakan beberapa interfaces atau Internet Protocol(IP) dengan memodifikasi Transmission Control Protocols(TCP) dengan mengirimkan packet transfer ke beberapa interface yang terhubung, istilah untuk MPTCP ialah sub-flow pada tiap interfaces yang terhubung. 
 
 # terminologi mptcp
+- path merupakan jalur diantara pengirim dan penerima pada setiap interfaces yang terhubung
 - subflow merupakan interfaces yang terhubung pada host atau komputer yang menggunakan MPTCP kernel
+- host adalah implementasi dari MPTCP kernel atau pengguna MPTCP client
 
 # kenapa harus menggunakan MPTCP kernel
 keuntungan menggunakan MPTCP kernel adalah pemanfaatan daya yang lebih baik dibandingkan single path TCP(SPTCP) atau TCP yang biasa, dengan trhougput yang lebih baik juga, lebih halus tanpa mengganggu interfaces pada saat pengiriman data
