@@ -20,18 +20,18 @@ jadi kernel itu adalah komponen utama dari suatu sistem operasi(SO) dan inti dar
  - device drivers
  - system call and security
 
- # dimana kernel itu yang cocok dengan OS?
+# dimana kernel itu yang cocok dengan OS?
  - hardware atau perangkat keras
  - linux kernel
  - user processes
 
 
- # MPTCP kernel 
+# MPTCP kernel 
 
  multipath Transmission Control Protocols(MP-TCP) adalah jenis kernel yang memungkinkan pengguna menggunakan beberapa interfaces atau Internet Protocol(IP) dengan memodifikasi Transmission Control Protocols(TCP) dengan mengirimkan packet transfer ke beberapa interface yang terhubung, istilah untuk MPTCP ialah sub-flow pada tiap interfaces yang terhubung. 
 
- # kenapa harus menggunakan MPTCP kernel
- 
+# kenapa harus menggunakan MPTCP kernel
+
 keuntungan menggunakan MPTCP kernel adalah pemanfaatan daya yang lebih baik dibandingkan single path TCP(SPTCP) atau TCP yang biasa, dengan trhougput yang lebih baik juga, lebih halus tanpa mengganggu interfaces pada saat pengiriman data
 
 # tujuan mptcp
