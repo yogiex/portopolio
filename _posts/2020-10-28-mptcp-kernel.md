@@ -31,3 +31,15 @@ jadi kernel itu adalah komponen utama dari suatu sistem operasi(SO) dan inti dar
 
  # kenapa harus menggunakan MPTCP kernel
 keuntungan menggunakan MPTCP kernel adalah pemanfaatan daya yang lebih baik dibandingkan single path TCP(SPTCP) atau TCP yang biasa, dengan trhougput yang lebih baik juga, lebih halus tanpa mengganggu interfaces pada saat pengiriman data
+
+# tujuan mptcp
+- improve througput = nilai througput < TCP koneksi
+- do not harm = tidak se agressive dibandingkan dengan single path TCP
+- balance congestion = harus memenuhi kedua point diatas
+
+
+
+
+
+referensi :
+- https://datatracker.ietf.org/meeting/90/materials/slides-90-mptcp-0
