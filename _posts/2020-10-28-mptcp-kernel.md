@@ -49,3 +49,4 @@ keuntungan menggunakan MPTCP kernel adalah pemanfaatan daya yang lebih baik diba
 referensi :
 - https://datatracker.ietf.org/meeting/90/materials/slides-90-mptcp-0
 - https://tools.ietf.org/html/rfc6356
+- https://tools.ietf.org/html/rfc8684
