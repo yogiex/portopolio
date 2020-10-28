@@ -43,7 +43,11 @@ keuntungan menggunakan MPTCP kernel adalah pemanfaatan daya yang lebih baik diba
 - balance congestion, multipath flow harus berpindah sebanyak flow interface yang ada
 
 
-
+# algoritma yang didukung mptcp
+- lia (linked increase algorithm)
+- olia (Opportunistic Linked-Increases algorithm)
+- balia (balance linked increase algorithm)
+- wVegas
 
 
 referensi :
