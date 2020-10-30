@@ -59,8 +59,8 @@ veri terbaru sejak postingan ini dipost adalah v.095 rilis versi stable, dengan 
 - BLocking ESTimation-based(BLEST) scheduler
 
 referensi :
-- https://multipath-tcp.org
-- https://datatracker.ietf.org/meeting/90/materials/slides-90-mptcp-0
-- https://tools.ietf.org/html/rfc6356
-- https://tools.ietf.org/html/rfc8684
-- http://multipath-tcp.org/pmwiki.php?n=Main.50Gbps
+- <https://multipath-tcp.org>
+- <https://datatracker.ietf.org/meeting/90/materials/slides-90-mptcp-0>
+- <https://tools.ietf.org/html/rfc6356>
+- <https://tools.ietf.org/html/rfc8684>
+- <http://multipath-tcp.org/pmwiki.php?n=Main.50Gbps>
