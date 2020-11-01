@@ -9,7 +9,7 @@ comments: true
 ---
 
 seperti judul postingan saya ingin mengenalkan salah satu teknologi control version system git,
-jadi version control system adalah sebuah sistem yang merekan perubahan perubahan dari sebuah file atau folder dari timeline yang ditentukan hingga dapat melakukan rollback terhadap perubahan yang tidak ingin dilakukan. seperti programmer ingin membuat fitur tetapi pada fitur tersebut terjadi kesalahan pada saat production, jadi mau tidak mau sang programmer melakukan rollback dan balik ke fitur yang sebelumnya. mari berkenalan dengan git dan github dengan beberapa command dasar
+jadi version control system adalah sebuah sistem yang merekan perubahan perubahan dari sebuah file atau folder dari timeline yang ditentukan hingga dapat melakukan rollback terhadap perubahan yang tidak ingin dilakukan. seperti programmer ingin membuat fitur tetapi pada fitur tersebut terjadi kesalahan pada saat production, jadi mau tidak mau sang programmer melakukan rollback dan balik ke fitur yang sebelumnya. mari berkenalan dengan git dan github dengan beberapa command line dasar
 
 
 
