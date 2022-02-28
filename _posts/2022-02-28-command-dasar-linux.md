@@ -69,12 +69,48 @@ Gambar 7. Perintah touch
 Gambar 8. Tampilan nano text editor
 
 pada gambar 8 terlihat file.txt yang masih kosong tanpa ada isi didalamnya, selanjut akan saya edit agar ada isi teks didalamnya.
-![](../img/perintah-linux/Screenshot_20220226_193602.png)
+![nano 1](../img/perintah-linux/Screenshot_20220226_193602.png)
 
 pada gambar diatas sudah ada isi dari teks yang akan disimpan, cara untuk menyimpan file menggunakan nano yaitu dengan ctrl+o, jika sudah tersimpan maka boleh keluar dari tampilan nano dengan ctrl+x.
 
-![](../img/perintah-linux/Screenshot_20220226_193729.png)
-gambar diatas merupakan konfirmasi file yang akan disimpan, tekan enter saja.
+![nano 2](../img/perintah-linux/Screenshot_20220226_193729.png)
+gambar diatas merupakan konfirmasi file yang akan disimpan, tekan enter saja dan sudah tersimpan.
+
+
+### cat
+***cat*** merupakan perintah untuk melihat atau menampilkan pada terminal isi file, bisa file text ataupun file source code. Contoh penggunaan ***cat*** yaitu dengan cat lalu diikuti dengan nama file yang akan diliat.
+
+![cat](../img/perintah-linux/Screenshot_20220228_135215.png)
+gambar diatas merupakan contoh penggunaan perintah cat, contoh nama file yang saya tampilkan adalah file.txt.
+
+### cp
+***cp*** merupakan perintah linux yang digunakan untuk menduplikat suatu file ataupun direktori, ***cp*** merupakan akronim dari *copy*. Contoh penggunaan ***cp*** yaitu cp diikuti dengan nama file yang akan diduplikat
+dan tujuan dari peletakan file duplikasi tersebut.
+
+![cp 1](../img/perintah-linux/Screenshot_20220228_135642.png)
+contoh penggunaan cp dengan tujuan direktori yang lain
+
+![cp 1](../img/perintah-linux/Screenshot_20220228_135616.png)
+gambar diatas jika kita menduplikat ke folder yang sama, hanya mengganti tujuan folder dengan nama file yang berbeda dari yang berada pada folder
+
+### mv
+***mv*** merupakan perintah linux untuk memindahkan atau *cut* file atau direktori, ***mv*** bisa juga untuk mengganti nama file. Contoh penggunaan mv spasi diikuti dengan tujuan folder atau nama file yang baru ketika ingin mengganti nama file.
+
+![mv 1](../img/perintah-linux/Screenshot_20220228_142044.png)
+penggunaan mv untuk memindahkan file.
+
+![mv 2](../img/perintah-linux/Screenshot_20220228_142026.png)
+gambar diatas merupakan penggunaan mv ketika me-*rename* file.
+
+
+### rm
+***rm*** merupakan perintah linux yang digunakan untuk menghapus file atau direktori, berasal dari bahasa inggris *remove*. Contoh penggunaan *rm* spasi diikuti dengan nama file atau direktori yang ingin dihapus.
+
+![rm](../img/perintah-linux/Screenshot_20220228_151911.png)
+
+
+
+Terimakasih sudah membaca sejauh ini, postingan ini hanya membahas beberapa perintah dasar linux yang mungkin sehari-hari digunakan.
 
 
 
