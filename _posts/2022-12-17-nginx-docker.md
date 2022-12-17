@@ -8,7 +8,7 @@ bigimg:
 tags: [fundamental, basic]
 comments: true
 ---
-![](../img/NGINX-logo-rgb-large.png)
+![banner](../img/NGINX-logo-rgb-large.png)
 halloo, postingan ini saya akan menjelaskan konfigurasi nginx web server menggunakan docker yang lebih simpel menampilkan index.html.
 
 ## Table of content
@@ -22,6 +22,7 @@ halloo, postingan ini saya akan menjelaskan konfigurasi nginx web server menggun
 ### Pull images
 Langkah pertama kita harus pull images dari docker registry atau dalam contoh saya docker pull images dari docker hub.
 Untuk melakukan pull dari docker hub menggunakan command
+
 ```
 docker pull nginx
 ```
@@ -29,17 +30,20 @@ docker pull nginx
 contoh diatas akan secara otomatis pull images nginx dengan versi latest
 jika ingin menggunakan versi yang lain seperti alpine atau menggunakan versi yang lain maka command seperti ini
 docker pull nginx:<gunakan versi yang ingin digunakan>
+
 ```
 docker pull nginx:alpine
 ```
 
-![](../img/Screenshot_20221217_090852.png)
+![docker pull](../img/Screenshot_20221217_090852.png)
 
 ### Run Nginx Images
 setelah berhasil melakukan pull images nginx maka selanjutnya menjalankan images dengan command
+
 ```
 docker run -it -d -p 80:80 --name nginx-webserver nginx
 ```
+
 -it : menggunakan interpreter terminal
 -d : akan menjalankan sebagai background
 -p : angka port yang akan di expose oleh docker container
@@ -55,7 +59,7 @@ untuk angka port bisa diganti menjadi angka sesuai kita bisa ke 8080:80
 
 ### Check 
 Setelah menjalankan docker maka lihat pada browser
-![](../img/Screenshot_20221217_091846.png)
+![browser 1](../img/Screenshot_20221217_091846.png)
 
 gambar diatas tampilan default docker images
 
@@ -67,8 +71,8 @@ lalu buat file index.html
 hapus dan run ulang 
 docker stop dan docker rm container yang sudah dijalankan
 
-![](../img/Screenshot_20221217_102521.png)
-![](../img/Screenshot_20221217_102456.png)
+![docker run](../img/Screenshot_20221217_102521.png)
+![browser 2](../img/Screenshot_20221217_102456.png)
 
 
 # Reference
