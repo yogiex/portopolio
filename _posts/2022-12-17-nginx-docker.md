@@ -49,11 +49,11 @@ docker run -it -d -p 80:80 --name nginx-webserver nginx
 -d : akan menjalankan sebagai background \
 -p : angka port yang akan di expose oleh docker container \
 --name : menamai docker container yang akan dijalankan \
-nginx : nama docker images \
+nginx : nama docker images 
 
 notes
-untuk angka port bisa diganti menjadi angka sesuai kita bisa ke 8080:80
-80 untuk angka port docker
+untuk angka port bisa diganti menjadi angka sesuai kita bisa ke 8080:80 \
+80 untuk angka port docker \
 8080 untuk angka yang dari host access
 
 ![docker run](../img/Screenshot_20221217_091832.png)
