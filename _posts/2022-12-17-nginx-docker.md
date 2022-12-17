@@ -8,6 +8,7 @@ bigimg:
 tags: [fundamental, basic]
 comments: true
 ---
+
 ![banner](../img/NGINX-logo-rgb-large.png)
 halloo, postingan ini saya akan menjelaskan konfigurasi nginx web server menggunakan docker yang lebih simpel menampilkan index.html.
 
@@ -44,13 +45,13 @@ setelah berhasil melakukan pull images nginx maka selanjutnya menjalankan images
 docker run -it -d -p 80:80 --name nginx-webserver nginx
 ```
 
--it : menggunakan interpreter terminal
--d : akan menjalankan sebagai background
--p : angka port yang akan di expose oleh docker container
---name : menamai docker container yang akan dijalankan
-nginx : nama docker images
+-it : menggunakan interpreter terminal \
+-d : akan menjalankan sebagai background \
+-p : angka port yang akan di expose oleh docker container \
+--name : menamai docker container yang akan dijalankan \
+nginx : nama docker images \
 
-*notes
+notes
 untuk angka port bisa diganti menjadi angka sesuai kita bisa ke 8080:80
 80 untuk angka port docker
 8080 untuk angka yang dari host access
@@ -75,5 +76,5 @@ docker stop dan docker rm container yang sudah dijalankan
 ![browser 2](../img/Screenshot_20221217_102456.png)
 
 
-# Reference
+### Reference
 - <https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image>
