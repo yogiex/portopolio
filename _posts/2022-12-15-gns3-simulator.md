@@ -34,7 +34,7 @@ perangkat perangkat yang diatas nanti bisa dihubungkan dengan lingkungan environ
 ## tahap awal belajar GNS3
 tahapan awal belajar atau menggunakan GNS3 adalah, iya sudah install perangkat lunak tersebut.
 perangkat lunak tersebut dapat diunduh di https://www.gns3.com/software/download
-![halaman unduh gns3](img/Screenshot_20221213_224031.png)
+![halaman unduh gns3](../img/Screenshot_20221213_224031.png)
 
 dan mengunduh gns3 VM pada https://www.gns3.com/software/download-vm
 ![halaman unduh GNS3 vm](img/Screenshot_20221213_224155.png)
@@ -44,7 +44,7 @@ GNS3 terdiri dari dua komponen, yaitu:
 
 GNS3 gui merupakan dari sisi client untuk membuat jaringan, kita bisa menginstall software ini pada local komputer kita(windows,linux, mac) dan membuat topologi yang kita desain sesua hati.
 berikut ini tampilan dari GNS3 GUI
-![contoh gns3 gui](img/jaringan-komputer/gns3-example-topologi.png)
+![contoh gns3 gui](../img/jaringan-komputer/gns3-example-topologi.png)
 credit: https://docs.gns3.com/docs/
 
 
