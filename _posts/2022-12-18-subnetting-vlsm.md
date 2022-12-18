@@ -11,8 +11,9 @@ comments: true
 
 VLSM atau Variable Length subnet mask adalah jenis subnetting atau membagi suatu jaringan yang lebih kecil sesuai dengan panjang atau jumlah host pada setiap subnetnya. Oleh karena itu jumlah ip yang terbuang tidak terlalu banyak dan mencukupi
 
-langsung saja ke perhitungannya
+langsung saja ke perhitungannya \
 contoh kita diberikan ip dengan 183.30.10.3/16 dan ada 5 network yang memiliki segment yang berbeda
+
 | nama      | jumlah host   |
 |-----------|---------------|
 | ruangan A |  400          |
@@ -28,7 +29,7 @@ contoh kita diberikan ip dengan 183.30.10.3/16 dan ada 5 network yang memiliki s
 3. operasi AND dengan angka prefix
 4. didapatkanlah network ID
 
-prefix dengan angka 1 berjumlah prefix, contoh prefix 16 maka buat angka 1 berjumlah 16 digit
+prefix dengan angka 1 berjumlah prefix, contoh prefix 16 maka buat angka 1 berjumlah 16 digit \
 183.30.10.3 -> 10110111.00011110.00001010.00000011 \
 /16         -> 11111111.11111111.00000000.00000000 \
                ___________________________________ AND \
@@ -38,7 +39,8 @@ prefix dengan angka 1 berjumlah prefix, contoh prefix 16 maka buat angka 1 berju
 maka network ID yang didapatkan adalah 183.30.0.0/16 \
 cara menentukan allocated host atau host yang dapat digunakan adalah 2^n \
 contoh jumlah host ruangan A adalah 400 maka 2^n dengan hasil lebih dari jumlah host ruangan A \
-jika 400 maka 2^9 mendapatkan hasil 512, apakah boleh 2^10? jawabannya kurang tepat karena hasil yang mendekati 400 adalah 512, apabila menggunakan pangkat 10 terlalu banyak alokasi ip yang terbuang. \
+jika 400 maka 2^9 mendapatkan hasil 512, apakah boleh 2^10? \
+jawabannya kurang tepat karena hasil yang mendekati 400 adalah 512, apabila menggunakan pangkat 10 terlalu banyak alokasi ip yang terbuang. \
 tips untuk network ID pasti genap \
 tips untuk broadcast ID adalah ganjil.
 
@@ -48,6 +50,7 @@ oleh sebab itu range ip tidak benar benar sesuai dengan 2^n.
 
 
 table 
+
 | nama      | allocated host |   Network    |   range ip                  |   broadcast 
 |-----------|----------------|--------------|-----------------------------|------------- 
 | ruangan A |  512           |   183.30.0.0 | 183.30.0.1 - 183.30.1.254   |   183.30.1.255 
