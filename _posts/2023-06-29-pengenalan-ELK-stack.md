@@ -79,7 +79,7 @@ password: changeme
 gambar diatas merupakan tampilan dari tampilan awal elasticsearch.
 
 
-Mungkin itu dari postingan kali ini, jika ada yang bisa ditanyakan bisa ada di about me :)
+Mungkin itu dari postingan kali ini, jika ada yang bisa ditanyakan bisa ada di about me.
 
 
 References:
