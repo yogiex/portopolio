@@ -49,7 +49,7 @@ lalu setelah masuk ke folder respositoty tersebut lalu masukkan command untuk me
 docker-compose up
 ```
 
-![cli elk](../img/elk/elk-cli.jpg)
+![cli-elk](../img/elk/elk-cli.jpg)
 
 atau menambahkan argumen -d agar docker compose berjalan pada background layer
 apabila anda tidak memiliki image yang ada pada file docker yml maka proses akan berjalan memakan waktu
