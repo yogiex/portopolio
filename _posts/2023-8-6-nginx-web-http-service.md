@@ -29,10 +29,13 @@ services:
   - ./src:/usr/share/nginx/html/
   - ./tmp:/var/log/nginx/
 ```
-port 80
-letak folder static html ada di /usr/share/nginx/html
+port 80 yang akan dimapping dan diakses oleh user, untuk port ini bisa dapat dirubah sesuai keinginan.
+
+letak folder static html ada di /usr/share/nginx/html.
+
 direktori /src merupakan direktori yang berisi file statis html yang akan digunakan untuk menampilkan halaman.
-direktori /var/log/nginx merupakan file logging yang akan digenerate setiap ada user yang mengakses web service yang akan dimapping di folder tmp
+
+direktori /var/log/nginx merupakan file logging yang akan digenerate setiap ada user yang mengakses web service yang akan dimapping di folder tmp.
 
 ![folder structure](../img/Screenshot_20230805_231220.png)
 gambar diatas merupakan struktur folder direktori
